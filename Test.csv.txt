@@ -1,0 +1,4 @@
+name,age,salary,city
+bhushan,25,50000,pune
+akshay,28,75000,mumbai
+rohit,30,80000,rajkot
